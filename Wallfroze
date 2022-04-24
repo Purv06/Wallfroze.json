@@ -9,13 +9,13 @@
       "author": "JNW",
       "url": "https://raw.githubusercontent.com/Purv06/Wallfroze.json/main/JNW%2010.png",
       "name": "wall 2",
-      "collections": "Aesethic"
+      "collections": "Neon"
     },
     {
       "author": "JNW",
       "url": "https://raw.githubusercontent.com/Purv06/Wallfroze.json/main/JNW%2011.png",
       "name": "wall 3",
-      "collections": "Aesethic"
+      "collections": "Neon"
     },
     {
       "author": "JNW",
@@ -87,13 +87,13 @@
       "author": "JNW",
       "url": "https://raw.githubusercontent.com/Purv06/Wallfroze.json/main/JNW%2023.png",
       "name": "wall 15",
-      "collections": "Vegetables"
+      "collections": "Floral"
     },
     {
       "author": "JNW",
       "url": "https://raw.githubusercontent.com/Purv06/Wallfroze.json/main/JNW%2024.png",
       "name": "wall 16",
-      "collections": "Music"
+      "collections": "Vector"
     },
     {
       "author": "JNW",
@@ -111,7 +111,7 @@
       "author": "JNW",
       "url": "https://raw.githubusercontent.com/Purv06/Wallfroze.json/main/JNW%2027.png",
       "name": "wall 19",
-      "collections": "Vegetables"
+      "collections": "Floral"
     },
     {
       "author": "JNW",
@@ -147,7 +147,7 @@
       "author": "JNW",
       "url": "https://raw.githubusercontent.com/Purv06/Wallfroze.json/main/JNW%2033.png",
       "name": "wall 25",
-      "collections": "Music"
+      "collections": "Vector"
     },
     {
       "author": "JNW",
@@ -159,13 +159,13 @@
       "author": "JNW",
       "url": "https://raw.githubusercontent.com/Purv06/Wallfroze.json/main/JNW%2036.png",
       "name": "wall 27",
-      "collections": "Games"
+      "collections": "Vectors"
     },
     {
       "author": "JNW",
       "url": "https://raw.githubusercontent.com/Purv06/Wallfroze.json/main/JNW%2037.png",
       "name": "wall 28",
-      "collections": "Love"
+      "collections": "Vector"
     },
     {
       "author": "JNW",
@@ -183,7 +183,7 @@
       "author": "JNW",
       "url": "https://raw.githubusercontent.com/Purv06/Wallfroze.json/main/JNW%204.png",
       "name": "wall 31",
-      "collections": "Love"
+      "collections": "Vector"
     },
     {
       "author": "JNW",
@@ -219,7 +219,7 @@
       "author": "JNW",
       "url": "https://raw.githubusercontent.com/Purv06/Wallfroze.json/main/JNW%2045.png",
       "name": "wall 37",
-      "collections": "Gradient"
+      "collections": "Abstract"
     },
     {
       "author": "JNW",
@@ -243,7 +243,7 @@
       "author": "JNW",
       "url": "https://raw.githubusercontent.com/Purv06/Wallfroze.json/main/JNW%2049.png",
       "name": "wall 41",
-      "collections": "Gradient"
+      "collections": "Abstract"
     },
     {
       "author": "JNW",
@@ -261,7 +261,7 @@
       "author": "JNW",
       "url": "https://raw.githubusercontent.com/Purv06/Wallfroze.json/main/JNW%2051.png",
       "name": "wall 44",
-      "collections": "Neomorphism"
+      "collections": "Abstract"
     },
     {
       "author": "JNW",
@@ -279,7 +279,7 @@
       "author": "JNW",
       "url": "https://raw.githubusercontent.com/Purv06/Wallfroze.json/main/JNW%2054.png",
       "name": "wall 47",
-      "collections": "Neomorphism"
+      "collections": "Abstract"
     },
     {
       "author": "JNW",
@@ -291,13 +291,13 @@
       "author": "JNW",
       "url": "https://raw.githubusercontent.com/Purv06/Wallfroze.json/main/JNW%2056.png",
       "name": "wall 49",
-      "collections": "Neomorphism"
+      "collections": "Abstract"
     },
     {
       "author": "JNW",
       "url": "https://raw.githubusercontent.com/Purv06/Wallfroze.json/main/JNW%2057.png",
       "name": "wall 50",
-      "collections": "Neomorphism"
+      "collections": "Abstract"
     },
     {
       "author": "JNW",
@@ -345,7 +345,7 @@
       "author": "JNW",
       "url": "https://raw.githubusercontent.com/Purv06/Wallfroze.json/main/JNW%2068.png",
       "name": "wall 58",
-      "collections": "Gradient"
+      "collections": "Abstract"
     },
     {
       "author": "JNW",
@@ -423,7 +423,7 @@
       "author": "JNW",
       "url": "https://raw.githubusercontent.com/Purv06/Wallfroze.json/main/JNW%2077.png",
       "name": "wall 71",
-      "collections": "Love"
+      "collections": "Vector"
     },
     {
       "author": "JNW",
@@ -447,7 +447,7 @@
       "author": "JNW",
       "url": "https://raw.githubusercontent.com/Purv06/Wallfroze.json/main/JNW%2080.png",
       "name": "wall 75",
-      "collections": "Fruits"
+      "collections": "Minimal"
     },
     {
       "author": "JNW",
@@ -459,7 +459,7 @@
       "author": "JNW",
       "url": "https://raw.githubusercontent.com/Purv06/Wallfroze.json/main/JNW%209.png",
       "name": "wall 77",
-      "collections": "Gradient"
+      "collections": "Abstract"
     },
     {
       "author": "JNW",
@@ -478,5 +478,695 @@
       "url": "https://raw.githubusercontent.com/Purv06/Wallfroze.json/main/JNW%2034.png",
       "name": "wall 80",
       "collections": "Nature"
+    },
+{
+      "author": "JNW",
+      "url": "https://raw.githubusercontent.com/Purv06/Wallfroze.json/main/JNW%20100.png",
+      "name": "wall 81",
+      "collections": "SuperHero"
+    },
+    {
+      "author": "JNW",
+      "url": "https://raw.githubusercontent.com/Purv06/Wallfroze.json/main/JNW%20101.png",
+      "name": "wall 82",
+      "collections": "Abstract"
+    },
+    {
+      "author": "JNW",
+      "url": "https://raw.githubusercontent.com/Purv06/Wallfroze.json/main/JNW%20102.png",
+      "name": "wall 83",
+      "collections": "Abstract"
+    },
+    {
+      "author": "JNW",
+      "url": "https://raw.githubusercontent.com/Purv06/Wallfroze.json/main/JNW%20103.png",
+      "name": "wall 84",
+      "collections": "Abstract"
+    },
+    {
+      "author": "JNW",
+      "url": "https://raw.githubusercontent.com/Purv06/Wallfroze.json/main/JNW%20104.png",
+      "name": "wall 85",
+      "collections": "Abstract"
+    },
+    {
+      "author": "JNW",
+      "url": "https://raw.githubusercontent.com/Purv06/Wallfroze.json/main/JNW%20105.png",
+      "name": "wall 86",
+      "collections": "Abstract"
+    },
+    {
+      "author": "JNW",
+      "url": "https://raw.githubusercontent.com/Purv06/Wallfroze.json/main/JNW%20106.png",
+      "name": "wall 87",
+      "collections": "Abstract"
+    },
+    {
+      "author": "JNW",
+      "url": "https://raw.githubusercontent.com/Purv06/Wallfroze.json/main/JNW%20107.png",
+      "name": "wall 88",
+      "collections": "Abstract"
+    },
+    {
+      "author": "JNW",
+      "url": "https://raw.githubusercontent.com/Purv06/Wallfroze.json/main/JNW%20108.png",
+      "name": "wall 89",
+      "collections": "Abstract"
+    },
+    {
+      "author": "JNW",
+      "url": "https://raw.githubusercontent.com/Purv06/Wallfroze.json/main/JNW%20109.png",
+      "name": "wall 90",
+      "collections": "Abstract"
+    },
+    {
+      "author": "JNW",
+      "url": "https://raw.githubusercontent.com/Purv06/Wallfroze.json/main/JNW%20110.png",
+      "name": "wall 91",
+      "collections": "Abstract"
+    },
+    {
+      "author": "JNW",
+      "url": "https://raw.githubusercontent.com/Purv06/Wallfroze.json/main/JNW%20111.png",
+      "name": "wall 92",
+      "collections": "Abstract"
+    },
+    {
+      "author": "JNW",
+      "url": "https://raw.githubusercontent.com/Purv06/Wallfroze.json/main/JNW%20112.png",
+      "name": "wall 93",
+      "collections": "Abstract"
+    },
+    {
+      "author": "Raj",
+      "url": "https://raw.githubusercontent.com/Purv06/Wallfroze.json/main/JNW%20113.png",
+      "name": "wall 94",
+      "collections": "Neon"
+    },
+    {
+      "author": "Raj",
+      "url": "https://raw.githubusercontent.com/Purv06/Wallfroze.json/main/JNW%20114.png",
+      "name": "wall 95",
+      "collections": "Gradient"
+    },
+    {
+      "author": "Raj",
+      "url": "https://raw.githubusercontent.com/Purv06/Wallfroze.json/main/JNW%20115.png",
+      "name": "wall 96",
+      "collections": "Neon"
+    },
+    {
+      "author": "Raj",
+      "url": "https://raw.githubusercontent.com/Purv06/Wallfroze.json/main/JNW%20116.png",
+      "name": "wall 97",
+      "collections": "Nature"
+    },
+    {
+      "author": "Raj",
+      "url": "https://raw.githubusercontent.com/Purv06/Wallfroze.json/main/JNW%20117.png",
+      "name": "wall 98",
+      "collections": "Neon"
+    },
+    {
+      "author": "Raj",
+      "url": "https://raw.githubusercontent.com/Purv06/Wallfroze.json/main/JNW%20118.png",
+      "name": "wall 99",
+      "collections": "Neon"
+    },
+    {
+      "author": "Raj",
+      "url": "https://raw.githubusercontent.com/Purv06/Wallfroze.json/main/JNW%20119.png",
+      "name": "wall 100",
+      "collections": "Neon"
+    },
+    {
+      "author": "Raj",
+      "url": "https://raw.githubusercontent.com/Purv06/Wallfroze.json/main/JNW%20120.png",
+      "name": "wall 101",
+      "collections": "Neon"
+    },
+    {
+      "author": "Raj",
+      "url": "https://raw.githubusercontent.com/Purv06/Wallfroze.json/main/JNW%20121.png",
+      "name": "wall 102",
+      "collections": "Abstract"
+    },
+    {
+      "author": "Raj",
+      "url": "https://raw.githubusercontent.com/Purv06/Wallfroze.json/main/JNW%20122.png",
+      "name": "wall 103",
+      "collections": "Floral"
+    },
+    {
+      "author": "JNW",
+      "url": "https://raw.githubusercontent.com/Purv06/Wallfroze.json/main/JNW%20123.png",
+      "name": "wall 104",
+      "collections": "Abstract"
+    },
+    {
+      "author": "JNW",
+      "url": "https://raw.githubusercontent.com/Purv06/Wallfroze.json/main/JNW%20124.png",
+      "name": "wall 105",
+      "collections": "Abstract"
+    },
+    {
+      "author": "JNW",
+      "url": "https://raw.githubusercontent.com/Purv06/Wallfroze.json/main/JNW%20125.png",
+      "name": "wall 106",
+      "collections": "Neon"
+    },
+    {
+      "author": "JNW",
+      "url": "https://raw.githubusercontent.com/Purv06/Wallfroze.json/main/JNW%20126.png",
+      "name": "wall 107",
+      "collections": "Neon"
+    },
+    {
+      "author": "cnt",
+      "url": "https://raw.githubusercontent.com/Purv06/Wallfroze.json/main/JNW%20127.jpg",
+      "name": "wall 108",
+      "collections": "Gradient"
+    },
+    {
+      "author": "cnt",
+      "url": "https://raw.githubusercontent.com/Purv06/Wallfroze.json/main/JNW%20128.jpg",
+      "name": "wall 109",
+      "collections": "Gradient"
+    },
+    {
+      "author": "cnt",
+      "url": "https://raw.githubusercontent.com/Purv06/Wallfroze.json/main/JNW%20129.jpg",
+      "name": "wall 110",
+      "collections": "Gradient"
+    },
+    {
+      "author": "cnt",
+      "url": "https://raw.githubusercontent.com/Purv06/Wallfroze.json/main/JNW%20130.jpg",
+      "name": "wall 111",
+      "collections": "Gradient"
+    },
+    {
+      "author": "JNW",
+      "url": "https://raw.githubusercontent.com/Purv06/Wallfroze.json/main/JNW%20131.jpg",
+      "name": "wall 112",
+      "collections": "Gradient"
+    },
+    {
+      "author": "JNW",
+      "url": "https://raw.githubusercontent.com/Purv06/Wallfroze.json/main/JNW%20132.jpg",
+      "name": "wall 113",
+      "collections": "Nature"
+    },
+    {
+      "author": "JNW",
+      "url": "https://raw.githubusercontent.com/Purv06/Wallfroze.json/main/JNW%20133.jpg",
+      "name": "wall 114",
+      "collections": "Nature"
+    },
+    {
+      "author": "JNW",
+      "url": "https://raw.githubusercontent.com/Purv06/Wallfroze.json/main/JNW%20135.jpg",
+      "name": "wall 115",
+      "collections": "Nature"
+    },
+    {
+      "author": "JNW",
+      "url": "https://raw.githubusercontent.com/Purv06/Wallfroze.json/main/JNW%20136.jpg",
+      "name": "wall 116",
+      "collections": "Nature"
+    },
+    {
+      "author": "JNW",
+      "url": "https://raw.githubusercontent.com/Purv06/Wallfroze.json/main/JNW%20137.jpg",
+      "name": "wall 117",
+      "collections": "Abstract"
+    },
+    {
+      "author": "JNW",
+      "url": "https://raw.githubusercontent.com/Purv06/Wallfroze.json/main/JNW%20139.jpg",
+      "name": "wall 118",
+      "collections": "Abstract"
+    },
+    {
+      "author": "JNW",
+      "url": "https://raw.githubusercontent.com/Purv06/Wallfroze.json/main/JNW%20140.jpg",
+      "name": "wall 119",
+      "collections": "Abstract"
+    },
+    {
+      "author": "JNW",
+      "url": "https://raw.githubusercontent.com/Purv06/Wallfroze.json/main/JNW%20141.jpg",
+      "name": "wall 120",
+      "collections": "Abstract"
+    },
+    {
+      "author": "JNW",
+      "url": "https://raw.githubusercontent.com/Purv06/Wallfroze.json/main/JNW%20142.jpg",
+      "name": "wall 121",
+      "collections": "Abstract"
+    },
+    {
+      "author": "JNW",
+      "url": "https://raw.githubusercontent.com/Purv06/Wallfroze.json/main/JNW%20143.png",
+      "name": "wall 122",
+      "collections": "Gradient"
+    },
+    {
+      "author": "JNW",
+      "url": "https://raw.githubusercontent.com/Purv06/Wallfroze.json/main/JNW%20144.PNG",
+      "name": "wall 123",
+      "collections": "Gradient"
+    },
+    {
+      "author": "JNW",
+      "url": "https://raw.githubusercontent.com/Purv06/Wallfroze.json/main/JNW%20145.jpg",
+      "name": "wall 124",
+      "collections": "Abstract"
+    },
+    {
+      "author": "JNW",
+      "url": "https://raw.githubusercontent.com/Purv06/Wallfroze.json/main/JNW%20146.jpg",
+      "name": "wall 125",
+      "collections": "Abstract"
+    },
+    {
+      "author": "JNW",
+      "url": "https://raw.githubusercontent.com/Purv06/Wallfroze.json/main/JNW%20147.jpg",
+      "name": "wall 126",
+      "collections": "Abstract"
+    },
+    {
+      "author": "JNW",
+      "url": "https://raw.githubusercontent.com/Purv06/Wallfroze.json/main/JNW%20148.jpg",
+      "name": "wall 127",
+      "collections": "Abstract"
+    },
+    {
+      "author": "JNW",
+      "url": "https://raw.githubusercontent.com/Purv06/Wallfroze.json/main/JNW%20149.jpg",
+      "name": "wall 128",
+      "collections": "Abstract"
+    },
+    {
+      "author": "JNW",
+      "url": "https://raw.githubusercontent.com/Purv06/Wallfroze.json/main/JNW%20150.jpg",
+      "name": "wall 129",
+      "collections": "Abstract"
+    },
+    {
+      "author": "cnt",
+      "url": "https://raw.githubusercontent.com/Purv06/Wallfroze.json/main/JNW%20151.png",
+      "name": "wall 130",
+      "collections": "Gradient"
+    },
+    {
+      "author": "cnt",
+      "url": "https://raw.githubusercontent.com/Purv06/Wallfroze.json/main/JNW%20152.PNG",
+      "name": "wall 131",
+      "collections": "Minimal"
+    },
+    {
+      "author": "cnt",
+      "url": "https://raw.githubusercontent.com/Purv06/Wallfroze.json/main/JNW%20153.PNG",
+      "name": "wall 132",
+      "collections": "Gradient"
+    },
+    {
+      "author": "cnt",
+      "url": "https://raw.githubusercontent.com/Purv06/Wallfroze.json/main/JNW%20154.PNG",
+      "name": "wall 133",
+      "collections": "Gradient"
+    },
+    {
+      "author": "cnt",
+      "url": "https://raw.githubusercontent.com/Purv06/Wallfroze.json/main/JNW%20155.PNG",
+      "name": "wall 134",
+      "collections": "Gradient"
+    },
+    {
+      "author": "cnt",
+      "url": "https://raw.githubusercontent.com/Purv06/Wallfroze.json/main/JNW%20156.PNG",
+      "name": "wall 135",
+      "collections": "Gradient"
+    },
+    {
+      "author": "cnt",
+      "url": "https://raw.githubusercontent.com/Purv06/Wallfroze.json/main/JNW%20157.PNG",
+      "name": "wall 136",
+      "collections": "Gradient"
+    },
+    {
+      "author": "JNW",
+      "url": "https://raw.githubusercontent.com/Purv06/Wallfroze.json/main/JNW%20160.jpg",
+      "name": "wall 137",
+      "collections": "Abstract"
+    },
+    {
+      "author": "JNW",
+      "url": "https://raw.githubusercontent.com/Purv06/Wallfroze.json/main/JNW%20161.png",
+      "name": "wall 138",
+      "collections": "Abstract"
+    },
+    {
+      "author": "JNW",
+      "url": "https://raw.githubusercontent.com/Purv06/Wallfroze.json/main/JNW%20162.jpg",
+      "name": "wall 139",
+      "collections": "Nature"
+    },
+    {
+      "author": "JNW",
+      "url": "https://raw.githubusercontent.com/Purv06/Wallfroze.json/main/JNW%20163.jpg",
+      "name": "wall 140",
+      "collections": "Nature"
+    },
+    {
+      "author": "JNW",
+      "url": "https://raw.githubusercontent.com/Purv06/Wallfroze.json/main/JNW%20164.png",
+      "name": "wall 141",
+      "collections": "Abstract"
+    },
+    {
+      "author": "JNW",
+      "url": "https://raw.githubusercontent.com/Purv06/Wallfroze.json/main/JNW%20165.png",
+      "name": "wall 142",
+      "collections": "Abstract"
+    },
+    {
+      "author": "JNW",
+      "url": "https://raw.githubusercontent.com/Purv06/Wallfroze.json/main/JNW%20166.png",
+      "name": "wall 143",
+      "collections": "Abstract"
+    },
+    {
+      "author": "JNW",
+      "url": "https://raw.githubusercontent.com/Purv06/Wallfroze.json/main/JNW%20167.png",
+      "name": "wall 144",
+      "collections": "Abstract"
+    },
+    {
+      "author": "JNW",
+      "url": "https://raw.githubusercontent.com/Purv06/Wallfroze.json/main/JNW%20168.png",
+      "name": "wall 145",
+      "collections": "Abstract"
+    },
+    {
+      "author": "JNW",
+      "url": "https://raw.githubusercontent.com/Purv06/Wallfroze.json/main/JNW%20169.png",
+      "name": "wall 146",
+      "collections": "Abstract"
+    },
+    {
+      "author": "JNW",
+      "url": "https://raw.githubusercontent.com/Purv06/Wallfroze.json/main/JNW%20170.png",
+      "name": "wall 147",
+      "collections": "Abstract"
+    },
+    {
+      "author": "JNW",
+      "url": "https://raw.githubusercontent.com/Purv06/Wallfroze.json/main/JNW%20171.png",
+      "name": "wall 148",
+      "collections": "Abstract"
+    },
+    {
+      "author": "JNW",
+      "url": "https://raw.githubusercontent.com/Purv06/Wallfroze.json/main/JNW%20172.png",
+      "name": "wall 149",
+      "collections": "Abstract"
+    },
+    {
+      "author": "JNW",
+      "url": "https://raw.githubusercontent.com/Purv06/Wallfroze.json/main/JNW%20173.png",
+      "name": "wall 150",
+      "collections": "Abstract"
+    },
+    {
+      "author": "JNW",
+      "url": "https://raw.githubusercontent.com/Purv06/Wallfroze.json/main/JNW%20174.png",
+      "name": "wall 151",
+      "collections": "Abstract"
+    },
+    {
+      "author": "JNW",
+      "url": "https://raw.githubusercontent.com/Purv06/Wallfroze.json/main/JNW%20175.png",
+      "name": "wall 152",
+      "collections": "Abstract"
+    },
+    {
+      "author": "cnt",
+      "url": "https://raw.githubusercontent.com/Purv06/Wallfroze.json/main/JNW%20176.png",
+      "name": "wall 153",
+      "collections": "Minimal"
+    },
+    {
+      "author": "cnt",
+      "url": "https://raw.githubusercontent.com/Purv06/Wallfroze.json/main/JNW%20177.png",
+      "name": "wall 154",
+      "collections": "Minimal"
+    },
+    {
+      "author": "cnt",
+      "url": "https://raw.githubusercontent.com/Purv06/Wallfroze.json/main/JNW%20178.png",
+      "name": "wall 155",
+      "collections": "Minimal"
+    },
+    {
+      "author": "JNW",
+      "url": "https://raw.githubusercontent.com/Purv06/Wallfroze.json/main/JNW%20179.png",
+      "name": "wall 156",
+      "collections": "Minimal"
+    },
+    {
+      "author": "JNW",
+      "url": "https://raw.githubusercontent.com/Purv06/Wallfroze.json/main/JNW%20180.png",
+      "name": "wall 157",
+      "collections": "Minimal"
+    },
+    {
+      "author": "cnt",
+      "url": "https://raw.githubusercontent.com/Purv06/Wallfroze.json/main/JNW%20181.png",
+      "name": "wall 158",
+      "collections": "Minimal"
+    },
+    {
+      "author": "cnt",
+      "url": "https://raw.githubusercontent.com/Purv06/Wallfroze.json/main/JNW%20182.png",
+      "name": "wall 159",
+      "collections": "Minimal"
+    },
+    {
+      "author": "JNW",
+      "url": "https://raw.githubusercontent.com/Purv06/Wallfroze.json/main/JNW%20183.jpg",
+      "name": "wall 160",
+      "collections": "Abstract"
+    },
+  {
+      "author": "JNW",
+      "url": "https://raw.githubusercontent.com/Purv06/Wallfroze.json/main/JNW%20184.jpg",
+      "name": "wall 161",
+      "collections": "Abstract"
+    },
+    {
+      "author": "JNW",
+      "url": "https://raw.githubusercontent.com/Purv06/Wallfroze.json/main/JNW%20185.jpg",
+      "name": "wall 162",
+      "collections": "Abstract"
+    },
+    {
+      "author": "JNW",
+      "url": "https://raw.githubusercontent.com/Purv06/Wallfroze.json/main/JNW%20186.jpg",
+      "name": "wall 163",
+      "collections": "Abstract"
+    },
+    {
+      "author": "JNW",
+      "url": "https://raw.githubusercontent.com/Purv06/Wallfroze.json/main/JNW%20187.jpg",
+      "name": "wall 164",
+      "collections": "Minimal"
+    },
+    {
+      "author": "JNW",
+      "url": "https://raw.githubusercontent.com/Purv06/Wallfroze.json/main/JNW%20188.jpg",
+      "name": "wall 165",
+      "collections": "Abstract"
+    },
+    {
+      "author": "JNW",
+      "url": "https://raw.githubusercontent.com/Purv06/Wallfroze.json/main/JNW%20189.png",
+      "name": "wall 166",
+      "collections": "Vector"
+    },
+    {
+      "author": "JNW",
+      "url": "https://raw.githubusercontent.com/Purv06/Wallfroze.json/main/JNW%20190.png",
+      "name": "wall 167",
+      "collections": "Vector"
+    },
+    {
+      "author": "JNW",
+      "url": "https://raw.githubusercontent.com/Purv06/Wallfroze.json/main/JNW%20191.png",
+      "name": "wall 168",
+      "collections": "Vector"
+    },
+    {
+      "author": "JNW",
+      "url": "https://raw.githubusercontent.com/Purv06/Wallfroze.json/main/JNW%20192.png",
+      "name": "wall 169",
+      "collections": "Vector"
+    },
+    {
+      "author": "JNW",
+      "url": "https://raw.githubusercontent.com/Purv06/Wallfroze.json/main/JNW%20193.png",
+      "name": "wall 170",
+      "collections": "Vector"
+    },
+    {
+      "author": "JNW",
+      "url": "https://raw.githubusercontent.com/Purv06/Wallfroze.json/main/JNW%20194.png",
+      "name": "wall 171",
+      "collections": "Vector"
+    },
+   {
+      "author": "JNW",
+      "url": "https://raw.githubusercontent.com/Purv06/Wallfroze.json/main/JNW%20195.png",
+      "name": "wall 172",
+      "collections": "Vector"
+    },
+    {
+      "author": "JNW",
+      "url": "https://raw.githubusercontent.com/Purv06/Wallfroze.json/main/JNW%20196.png",
+      "name": "wall 173",
+      "collections": "SuperHero"
+    },
+    {
+      "author": "JNW",
+      "url": "https://raw.githubusercontent.com/Purv06/Wallfroze.json/main/JNW%20197.png",
+      "name": "wall 174",
+      "collections": "SuperHero"
+    },
+    {
+      "author": "JNW",
+      "url": "https://raw.githubusercontent.com/Purv06/Wallfroze.json/main/JNW%20198.png",
+      "name": "wall 175",
+      "collections": "SuperHero"
+    },
+    {
+      "author": "JNW",
+      "url": "https://raw.githubusercontent.com/Purv06/Wallfroze.json/main/JNW%20199.png",
+      "name": "wall 176",
+      "collections": "SuperHero"
+    },
+    {
+      "author": "JNW",
+      "url": "https://raw.githubusercontent.com/Purv06/Wallfroze.json/main/JNW%20200.png",
+      "name": "wall 177",
+      "collections": "SuperHero"
+    },
+ {
+      "author": "JNW",
+      "url": "https://raw.githubusercontent.com/Purv06/Wallfroze.json/main/JNW%2082.png",
+      "name": "wall 179",
+      "collections": "SuperHero"
+    },
+    {
+      "author": "JNW",
+      "url": "https://raw.githubusercontent.com/Purv06/Wallfroze.json/main/JNW%2083.png",
+      "name": "wall 180",
+      "collections": "SuperHero"
+    },
+    {
+      "author": "JNW",
+      "url": "https://raw.githubusercontent.com/Purv06/Wallfroze.json/main/JNW%2084.png",
+      "name": "wall 181",
+      "collections": "SuperHero"
+    },
+    {
+      "author": "JNW",
+      "url": "https://raw.githubusercontent.com/Purv06/Wallfroze.json/main/JNW%2085.png",
+      "name": "wall 182",
+      "collections": "SuperHero"
+    },
+    {
+      "author": "JNW",
+      "url": "https://raw.githubusercontent.com/Purv06/Wallfroze.json/main/JNW%2086.png",
+      "name": "wall 183",
+      "collections": "SuperHero"
+    },
+    {
+      "author": "JNW",
+      "url": "https://raw.githubusercontent.com/Purv06/Wallfroze.json/main/JNW%2088.png",
+      "name": "wall 184",
+      "collections": "Nature"
+    },
+    {
+      "author": "JNW",
+      "url": "https://raw.githubusercontent.com/Purv06/Wallfroze.json/main/JNW%2089.png",
+      "name": "wall 185",
+      "collections": "Nature"
+    },
+    {
+      "author": "JNW",
+      "url": "https://raw.githubusercontent.com/Purv06/Wallfroze.json/main/JNW%2090.png",
+      "name": "wall 186",
+      "collections": "Nature"
+    },
+    {
+      "author": "JNW",
+      "url": "https://raw.githubusercontent.com/Purv06/Wallfroze.json/main/JNW%2091.png",
+      "name": "wall 187",
+      "collections": "Nature"
+    },
+   {
+      "author": "JNW",
+      "url": "https://raw.githubusercontent.com/Purv06/Wallfroze.json/main/JNW%2092.png",
+      "name": "wall 188",
+      "collections": "SuperHero"
+    },
+    {
+      "author": "JNW",
+      "url": "https://raw.githubusercontent.com/Purv06/Wallfroze.json/main/JNW%2093.png",
+      "name": "wall 189",
+      "collections": "SuperHero"
+    },
+    {
+      "author": "JNW",
+      "url": "https://raw.githubusercontent.com/Purv06/Wallfroze.json/main/JNW%2094.png",
+      "name": "wall 190",
+      "collections": "SuperHero"
+    },
+    {
+      "author": "JNW",
+      "url": "https://raw.githubusercontent.com/Purv06/Wallfroze.json/main/JNW%2095.png",
+      "name": "wall 191",
+      "collections": "SuperHero"
+    },
+    {
+      "author": "JNW",
+      "url": "https://raw.githubusercontent.com/Purv06/Wallfroze.json/main/JNW%2096.png",
+      "name": "wall 192",
+      "collections": "SuperHero"
+    },
+    {
+      "author": "JNW",
+      "url": "https://raw.githubusercontent.com/Purv06/Wallfroze.json/main/JNW%2097.png",
+      "name": "wall 193",
+      "collections": "SuperHero"
+    },
+{
+      "author": "JNW",
+      "url": "https://raw.githubusercontent.com/Purv06/Wallfroze.json/main/JNW%2098.png",
+      "name": "wall 194",
+      "collections": "SuperHero"
+    },
+    {
+      "author": "JNW",
+      "url": "https://raw.githubusercontent.com/Purv06/Wallfroze.json/main/JNW%2099.png",
+      "name": "wall 195",
+      "collections": "SuperHero"
+    },
+   {
+      "author": "JNW",
+      "url": "https://raw.githubusercontent.com/Purv06/Wallfroze.json/main/jNw%20138.jpg",
+      "name": "wall 196",
+      "collections": "Abstract"
     }
 ]
