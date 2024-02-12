@@ -1,6 +1,77 @@
 [
     {
       "author": "Droid Decor",
+      "url": "https://raw.githubusercontent.com/Purv06/Wallfroze.json/main/Space/IMG_20230606_004748_665 (2).jpg",
+      "name": "wall 1",
+      "collections": "Space"
+    },
+    {
+      "author": "Droid Decor",
+      "url": "https://raw.githubusercontent.com/Purv06/Wallfroze.json/main/Space/IMG_20230608_211643_770.jpg",
+      "name": "wall 2",
+      "collections": "Space"
+    },
+    {
+      "author": "Droid Decor",
+      "url": "https://raw.githubusercontent.com/Purv06/Wallfroze.json/main/Space/IMG_20230608_211644_158.jpg",
+      "name": "wall 3",
+      "collections": "Space"
+    },
+    {
+      "author": "Droid Decor",
+      "url": "https://raw.githubusercontent.com/Purv06/Wallfroze.json/main/Space/IMG_20240212_133056_211.jpg",
+      "name": "wall 4",
+      "collections": "Space"
+    },
+    {
+      "author": "Droid Decor",
+      "url": "https://raw.githubusercontent.com/Purv06/Wallfroze.json/main/Space/IMG_20240212_133057_025.jpg",
+      "name": "wall 5",
+      "collections": "Space"
+    },
+    {
+      "author": "Droid Decor",
+      "url": "https://raw.githubusercontent.com/Purv06/Wallfroze.json/main/Space/IMG_20240212_133057_053.jpg",
+      "name": "wall 6",
+      "collections": "Space"
+    },
+    {
+      "author": "Droid Decor",
+      "url": "https://raw.githubusercontent.com/Purv06/Wallfroze.json/main/Space/IMG_20240212_133057_345.jpg",
+      "name": "wall 7",
+      "collections": "Space"
+    },
+    {
+      "author": "Droid Decor",
+      "url": "https://raw.githubusercontent.com/Purv06/Wallfroze.json/main/Space/IMG_20240212_133057_701.jpg",
+      "name": "wall 8",
+      "collections": "Space"
+    },
+    {
+      "author": "Droid Decor",
+      "url": "https://raw.githubusercontent.com/Purv06/Wallfroze.json/main/Space/IMG_20240212_133058_053.jpg",
+      "name": "wall 9",
+      "collections": "Space"
+    },
+    {
+      "author": "Droid Decor",
+      "url": "https://raw.githubusercontent.com/Purv06/Wallfroze.json/main/Space/IMG_20240212_133412_341.jpg",
+      "name": "wall 10",
+      "collections": "Space"
+    },
+
+
+
+
+
+
+
+
+
+
+
+    {
+      "author": "Droid Decor",
       "url": "https://raw.githubusercontent.com/Purv06/Wallfroze.json/main/Gradient/IMG_20230518_203535_978.jpg",
       "name": "wall 1",
       "collections": "Gradient"
