@@ -1,6 +1,22 @@
 [
     {
       "author": "Droid Decor",
+      "url": "https://raw.githubusercontent.com/Purv06/Wallfroze.json/main/IMG_20240214_094021_578.jpg",
+      "name": "wall 234",
+      "collections": "Nature"
+    },
+    {
+      "author": "Droid Decor",
+      "url": "https://raw.githubusercontent.com/Purv06/Wallfroze.json/main/IMG_20240214_094021_635.jpg",
+      "name": "wall 235",
+      "collections": "Nature"
+    },
+
+
+
+
+{
+      "author": "Droid Decor",
       "url": "https://raw.githubusercontent.com/Purv06/Wallfroze.json/main/Space/IMG_20230606_004748_665 (2).jpg",
       "name": "wall 1",
       "collections": "Space"
