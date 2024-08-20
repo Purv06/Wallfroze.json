@@ -1,5 +1,21 @@
 [
-{
+   {
+      "author": "JNW",
+      "url": "https://raw.githubusercontent.com/Purv06/Wallfroze.json/main/Scenery/1724172806758.jpg",
+      "name": "wall 5",
+      "collections": "Scenery"
+    },
+    {
+      "author": "JNW",
+      "url": "https://raw.githubusercontent.com/Purv06/Wallfroze.json/main/Scenery/1724172965493.jpg",
+      "name": "wall 6",
+      "collections": "Scenery"
+    },
+
+
+
+
+      {
       "author": "JNW",
       "url": "https://raw.githubusercontent.com/Purv06/Wallfroze.json/main/Abstract/Project 1 1 52.jpg",
       "name": "wall 27",
